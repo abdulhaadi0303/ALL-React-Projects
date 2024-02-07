@@ -1,0 +1,19 @@
+.Maindiv {
+  height: 100vh;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+
+}
+.Flex{
+  display:flex;
+  flex-direction:row;
+}
+
+.button{
+  font-size:22px;
+  margin:5px;
+  padding:25px;
+  background-color:white;
+  width:200px;
+}
